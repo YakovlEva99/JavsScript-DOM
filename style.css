@@ -1,3 +1,14 @@
 .changeColor{
     background-color: blue;
 }
+.image1{
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    display: none;
+    position: relative;
+}
+
+.image3{
+    display: none;
+}
